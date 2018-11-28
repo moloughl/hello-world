@@ -1,2 +1,4 @@
 # hello-world
-Introductory repository
+Introductory repository.
+
+Just practising using commit!
